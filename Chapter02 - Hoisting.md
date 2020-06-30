@@ -56,7 +56,7 @@ console.log(a + ' , ' + b);  // '1 , 2'
 ```
 ###### 예제4.
 ```
-/ 실행 전
+// 실행 전
 logMessage();
 sumNumbers();
 
